@@ -1,0 +1,14 @@
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\bin\Debug\NepaliUnicodeBar.exe.config
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\bin\Debug\NepaliUnicodeBar.exe
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\bin\Debug\NepaliUnicodeBar.pdb
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\bin\Debug\NepaliUnicodeBar.xml
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\obj\Debug\NepaliUnicodeBar.vbprojAssemblyReference.cache
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\obj\Debug\NepaliUnicodeBar.Resources.resources
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\obj\Debug\NepaliUnicodeBar.vbproj.GenerateResource.cache
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\obj\Debug\NepaliUnicodeBar.vbproj.CoreCompileInputs.cache
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\obj\Debug\NepaliUnicodeBar.exe
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\obj\Debug\NepaliUnicodeBar.xml
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\obj\Debug\NepaliUnicodeBar.pdb
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\obj\Debug\NepaliUnicodeBar.mainForm.resources
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\bin\Debug\changeLang.dll
+E:\vbCodes\NepaliUnicodeBar\Nepali Unicode Bar\NepaliUnicodeBar\obj\Debug\NepaliUnicodeBar.vbproj.CopyComplete
