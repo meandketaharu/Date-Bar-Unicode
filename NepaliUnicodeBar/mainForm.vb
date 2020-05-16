@@ -217,5 +217,13 @@ Public Class mainForm
         'process not found, return false
         Return count
     End Function
+
+    Private Sub langLbl_Click(sender As Object, e As EventArgs) Handles langLbl.Click
+
+    End Sub
+
+    Private Sub notifyMenu_Opening(sender As Object, e As CancelEventArgs) Handles notifyMenu.Opening
+
+    End Sub
 #End Region
 End Class

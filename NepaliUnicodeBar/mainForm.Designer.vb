@@ -73,48 +73,48 @@ Partial Class mainForm
         Me.notifyMenu.ImageScalingSize = New System.Drawing.Size(20, 20)
         Me.notifyMenu.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.RunAtStartupToolStripMenuItem, Me.AboutToolStripMenuItem, Me.ToolStripSeparator1, Me.ExitToolStripMenuItem})
         Me.notifyMenu.Name = "notifyMenu"
-        Me.notifyMenu.Size = New System.Drawing.Size(127, 82)
+        Me.notifyMenu.Size = New System.Drawing.Size(211, 110)
         '
         'RunAtStartupToolStripMenuItem
         '
         Me.RunAtStartupToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.RunAtStartToolStripMenuItem, Me.DonotRunAtStartToolStripMenuItem, Me.CheckStatusToolStripMenuItem})
         Me.RunAtStartupToolStripMenuItem.Name = "RunAtStartupToolStripMenuItem"
-        Me.RunAtStartupToolStripMenuItem.Size = New System.Drawing.Size(126, 24)
+        Me.RunAtStartupToolStripMenuItem.Size = New System.Drawing.Size(210, 24)
         Me.RunAtStartupToolStripMenuItem.Text = "Startup"
         '
         'RunAtStartToolStripMenuItem
         '
         Me.RunAtStartToolStripMenuItem.Name = "RunAtStartToolStripMenuItem"
-        Me.RunAtStartToolStripMenuItem.Size = New System.Drawing.Size(216, 26)
+        Me.RunAtStartToolStripMenuItem.Size = New System.Drawing.Size(215, 26)
         Me.RunAtStartToolStripMenuItem.Text = "Run at Start"
         '
         'DonotRunAtStartToolStripMenuItem
         '
         Me.DonotRunAtStartToolStripMenuItem.Name = "DonotRunAtStartToolStripMenuItem"
-        Me.DonotRunAtStartToolStripMenuItem.Size = New System.Drawing.Size(216, 26)
+        Me.DonotRunAtStartToolStripMenuItem.Size = New System.Drawing.Size(215, 26)
         Me.DonotRunAtStartToolStripMenuItem.Text = "Donot Run at Start"
         '
         'CheckStatusToolStripMenuItem
         '
         Me.CheckStatusToolStripMenuItem.Name = "CheckStatusToolStripMenuItem"
-        Me.CheckStatusToolStripMenuItem.Size = New System.Drawing.Size(216, 26)
+        Me.CheckStatusToolStripMenuItem.Size = New System.Drawing.Size(215, 26)
         Me.CheckStatusToolStripMenuItem.Text = "Check Status"
         '
         'AboutToolStripMenuItem
         '
         Me.AboutToolStripMenuItem.Name = "AboutToolStripMenuItem"
-        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(126, 24)
+        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(210, 24)
         Me.AboutToolStripMenuItem.Text = "About"
         '
         'ToolStripSeparator1
         '
         Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
-        Me.ToolStripSeparator1.Size = New System.Drawing.Size(123, 6)
+        Me.ToolStripSeparator1.Size = New System.Drawing.Size(207, 6)
         '
         'ExitToolStripMenuItem
         '
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(126, 24)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(210, 24)
         Me.ExitToolStripMenuItem.Text = "Exit"
         '
         'sysInfo
